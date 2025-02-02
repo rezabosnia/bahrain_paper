@@ -14,7 +14,7 @@ This project presents a comparative study of eight machine learning (ML) techniq
 
 
 <ul>
-  <li><b>Churn Prediction.ipynb</b> - Main script file.</li>
+  <li><b>Churn Prediction bahrain V 1.0.ipynb</b> - Main script file.</li>
   <li><b>InternetUsage.csv</b> - Data of user internet usage.</li>
   <li><b>POTSUsage.csv</b> - Data of user telephone usage.</li>
   <li><b>Population.csv</b> - User population data.</li>
